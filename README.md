@@ -1,2 +1,4 @@
 # Chat_dApp
-Chat application
+Blockchain chat application deployed on Avalanche.
+
+
