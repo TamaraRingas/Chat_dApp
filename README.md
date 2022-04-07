@@ -1,5 +1,5 @@
 # Chat_dApp
-Blockchain chat application deployed on Avalanche. Made through a tutorial by Nimish Agrawal & Sayan Kar.
+Blockchain chat application deployed on Avalanche.
 
 Run npm start in the project directory.
 
